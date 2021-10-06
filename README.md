@@ -20,16 +20,16 @@ dwerneck@outlook.com
 
 ## Data Science Projects
 
-1) Rossmaan Sales Prediction
+### 1) Rossmaan Sales Prediction
 
 I have built a machine learning model to forecast each store's sales in the next six weeks. The proposed business challenge was to help the CFO having a sales prediction to make an accurate budget for the store's refurbishment.  
 
 Overall, the performance of the model follows below:
 
-(ADD print SCREEN)
+![Alt text](/result.png?raw=true)
 
 The business performance for each store can be seen in the notebook. 
 
-2) Health Insurance Cross Sell
+### 2) Health Insurance Cross Sell
 
 ON GOING
