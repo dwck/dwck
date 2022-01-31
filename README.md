@@ -10,9 +10,9 @@ The details of the project are available in the Rossmann sales prediction reposi
 
 Currently, I am developing my second project to expand my skills and knowledge. For now, the analytical tools that I know are:
 - Data collection and storage: SQL.
-- Data process and analysis: Python
+- Data process and analysis: Python and its modules(e.g. scikit-learn, numpy, pandas, matplotlib)
 - Development: Git
-- Machine Learning Modelling: Regression
+- Machine Learning Modelling: Regression, Classification
 - Machine Learning Deployment: Heroku, Flask
 
 Contact:
