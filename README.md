@@ -1,6 +1,6 @@
 # Daniel's Portfolio
 
-The main objective of my portfolio is to show my skill to solve business challenges through my data science knowledge and demonstrate I am ready to have a job in this field.  
+The main objective of my portfolio is to show my skill to solve business challenges through my data science knowledge and demonstrate how can I help you. 
 
 ## Daniel Werneck
 ### (Data Scientist)
