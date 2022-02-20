@@ -7,10 +7,10 @@ Check out my repositories if you want to see the details of each project. Thanks
 ## Daniel Werneck
 ### (Data Scientist)
 I am a self-taught Data Scientist. I am also a graduated Mechanical Engineer.
-As you can see, I have finished my first project from a dataset available in Kaggle, and I went through all steps to help the business to make a better decision. These steps are from understanding the company and the dataset to deploy the model into production using Clouds. 
-The details of the project are available in the Rossmann sales prediction repository. 
+Here you can see all my projects - using public datasets. 
+All my committed public projects are done from the understanding of the company and the dataset to deploy the model into production using Clouds.  
 
-I am developing my second project to expand my skills and knowledge. Currently, the analytical tools that I know are:
+Currently, the analytical tools that I know are:
 - Data collection and storage: SQL.
 - Data process and analysis: Python and its modules(e.g. scikit-learn, numpy, pandas, matplotlib)
 - Development: Git
